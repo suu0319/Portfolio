@@ -1,8 +1,17 @@
-# React + Vite
+# Portfolio
+## Intro
+Use React + Vite to write the frontend UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Skills  
+- React
+- Vite
+- HTML/CSS
+- JavaScript
+- GitHub Pages
 
-Currently, two official plugins are available:
+## Preview
+![image](https://github.com/user-attachments/assets/35a65fa1-31f8-4cf3-ab19-6f57cb07b135)
+![image](https://github.com/user-attachments/assets/a3a7ab8b-1883-441b-8c5d-67f8b47ea6fc)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Download  
+[Page]([https://drive.google.com/file/d/1EC5p_LRRR2muFhwhWf_w4FLeW5oEt7u3/view?usp=sharing](https://suu0319.github.io/Portfolio/))
