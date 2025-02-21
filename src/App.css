@@ -29,9 +29,9 @@ body, html {
 .top-card {
   background-color: #444;
   width: 100%;
-  font-weight: bold;
   color: #fff;
-  padding: 1rem;
+  padding: 0.5rem;
+  box-sizing: border-box;
   text-align: center;
 }
 
@@ -46,10 +46,11 @@ nav button {
   color: white;
   border: none;
   padding: 0.5rem 1rem;
-  margin: 0.5rem;
+  margin: 0.3rem;
   cursor: pointer;
   text-decoration: underline;
   font-size: 1.5rem;
+  font-weight: bold;
 }
 
 nav button:hover {
