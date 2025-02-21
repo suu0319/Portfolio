@@ -14,4 +14,4 @@ Use React + Vite to write the frontend UI
 ![image](https://github.com/user-attachments/assets/a3a7ab8b-1883-441b-8c5d-67f8b47ea6fc)
 
 ## GitHub Page
-[Link](https://drive.google.com/file/d/1EC5p_LRRR2muFhwhWf_w4FLeW5oEt7u3/view?usp=sharing](https://suu0319.github.io/Portfolio/)
+[Link](https://suu0319.github.io/Portfolio/)
